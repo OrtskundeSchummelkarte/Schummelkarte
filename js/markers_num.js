@@ -32,7 +32,7 @@
     .bindPopup("<h2>Staatsbank</h2>");
   L.marker([-6075, 2896], {icon: cardIcon6}).addTo(map)
     .bindPopup("<h2>Vespucci Bank</h2>");
-  L.marker([-5721, 3286], {icon: cardIcon6}).addTo(map)
+  L.marker([-5705, 3345], {icon: cardIcon6}).addTo(map)
     .bindPopup("<h2>Juwelier</h2>");
   L.marker([-5689, 3051], {icon: cardIcon6}).addTo(map)
     .bindPopup("<h2>Lifeinvader</h2>");
@@ -156,21 +156,49 @@
     .bindPopup("<h2>Triaden Baustelle</h2>");
   L.marker([-6561, 2959], {icon: cardIcon6}).addTo(map)
     .bindPopup("<h2>Muscle Beach</h2>");
+  L.marker([-4002, 4439], {icon: cardIcon6}).addTo(map)
+    .bindPopup("<h2>Cypress Fleischer</h2>");
+  L.marker([-6011, 3536], {icon: cardIcon6}).addTo(map)
+    .bindPopup("<h2>Rotes Parkhaus</h2>");
+  L.marker([-6394, 4084], {icon: cardIcon6}).addTo(map)
+    .bindPopup("<h2>Mechaniker</h2>");
+  L.marker([-6136, 3372], {icon: cardIcon6}).addTo(map)
+    .bindPopup("<h2>Weazel News</h2>");
+  L.marker([-1321, 3638], {icon: cardIcon6}).addTo(map)
+    .bindPopup("<h2>Paleto Apotheke</h2>");
+  L.marker([-1557, 3467], {icon: cardIcon6}).addTo(map)
+    .bindPopup("<h2>Paleto PD</h2>");
+  L.marker([-5914, 3945], {icon: cardIcon6}).addTo(map)
+    .bindPopup("<h2>KH1</h2>");
+  L.marker([-6444, 3964], {icon: cardIcon6}).addTo(map)
+    .bindPopup("<h2>KH2</h2>");
+  L.marker([-3110, 4961], {icon: cardIcon6}).addTo(map)
+    .bindPopup("<h2>KH Sandy</h2>");
+  L.marker([-1369, 3593], {icon: cardIcon6}).addTo(map)
+    .bindPopup("<h2>Kh Paleto</h2>");
+  L.marker([-5783, 2790], {icon: cardIcon6}).addTo(map)
+    .bindPopup("<h2>Frak KH Rockford</h2>");
+  L.marker([-6906, 4234], {icon: cardIcon6}).addTo(map)
+    .bindPopup("<h2>Frak KH Cypress</h2>");
+  L.marker([-3178, 4356], {icon: cardIcon6}).addTo(map)
+    .bindPopup("<h2>Frak KH Sandy</h2>");
+  L.marker([-1469, 3537], {icon: cardIcon6}).addTo(map)
+    .bindPopup("<h2>Frak KH Paleto</h2>");
+  L.marker([-6203, 2683], {icon: cardIcon6}).addTo(map)
+    .bindPopup("<h2>Pier PD</h2>");
+  L.marker([-5525, 4147], {icon: cardIcon6}).addTo(map)
+    .bindPopup("<h2>Vinewood PD</h2>");
+  L.marker([-6185, 4040], {icon: cardIcon6}).addTo(map)
+    .bindPopup("<h2>Missionrow PD</h2>");
+  L.marker([-3100, 4977], {icon: cardIcon6}).addTo(map)
+    .bindPopup("<h2>Sandy PD</h2>");
+  L.marker([-5470, 4151], {icon: cardIcon6}).addTo(map)
+    .bindPopup("<h2>alte vinewood garage</h2>");
 
 
- /*L.marker([COORDS], {icon: cardIcon6}).addTo(map)
-    .bindPopup("<h2>NAME</h2><p><a href='LINK ZUM BILD' data-lightbox='image-1' data-title='NAME'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
-
+ /*
   L.marker([], {icon: cardIcon6}).addTo(map)
     .bindPopup("<h2></h2>");
-  1 Gelb 
-  2 Gruen
-  3 Blau
-  4 Orange
-  5 Schwarz
-  6 Rot
-  7 Rosa
-  8 Weiss
-  9 Lila
-  10 Braun
+
+
   */
