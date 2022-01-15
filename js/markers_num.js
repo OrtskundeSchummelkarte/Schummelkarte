@@ -59,9 +59,7 @@
   L.marker([-6132, 3134], {icon: cardIcon6}).addTo(map)
     .bindPopup("<h2>UG Anwesen UCF</h2>");
   L.marker([-3724, 4150], {icon: cardIcon6}).addTo(map)
-    .bindPopup("<h2>Harmony Apotheke</h2>");
-  L.marker([-3708, 4151], {icon: cardIcon6}).addTo(map)
-    .bindPopup("<h2>Zivi Paintballhalle</h2>");
+    .bindPopup("<h2>Harmony Apotheke / Zivi Paintball</h2>");
   L.marker([-5322, 2895], {icon: cardIcon6}).addTo(map)
     .bindPopup("<h2>Richman Hotel</h2>");
   L.marker([-6188, 2710], {icon: cardIcon6}).addTo(map)
