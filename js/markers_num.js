@@ -138,7 +138,7 @@
     .bindPopup("<h2>Seilbahn</h2>");
   L.marker([-3691, 2724], {icon: cardIcon6}).addTo(map)
     .bindPopup("<h2>Army Südtor</h2>");
-  L.marker([-1855, 3263], {icon: cardIcon6}).addTo(map)
+  L.marker([-3269, 2205], {icon: cardIcon6}).addTo(map)
     .bindPopup("<h2>Army Nordtor</h2>");
   L.marker([-1580, 5618], {icon: cardIcon6}).addTo(map)
     .bindPopup("<h2>Mount Gordo</h2>");
