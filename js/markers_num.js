@@ -128,7 +128,7 @@
     .bindPopup("<h2>weazle News baustelle</h2>");
   L.marker([-5665, 3626], {icon: cardIcon6}).addTo(map)
     .bindPopup("<h2>Rockford Plaza</h2>");
-  L.marker([-3261, 3369], {icon: cardIcon6}).addTo(map)
+  L.marker([-6267, 3370], {icon: cardIcon6}).addTo(map)
     .bindPopup("<h2>Korean Plaza</h2>");
   L.marker([-5815, 3198], {icon: cardIcon6}).addTo(map)
     .bindPopup("<h2>Weazel Plaza</h2>");
@@ -193,7 +193,7 @@
   L.marker([-3100, 4977], {icon: cardIcon6}).addTo(map)
     .bindPopup("<h2>Sandy PD</h2>");
   L.marker([-5470, 4151], {icon: cardIcon6}).addTo(map)
-    .bindPopup("<h2>alte vinewood garage</h2>");
+    .bindPopup("<h2>Alte Vinewood Garage</h2>");
   L.marker([-6986, 2946], {icon: cardIcon6}).addTo(map)
     .bindPopup("<h2>Flugzeughändler</h2>");
   L.marker([-7506, 3937], {icon: cardIcon6}).addTo(map)
