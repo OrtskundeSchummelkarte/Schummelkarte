@@ -196,6 +196,10 @@
     .bindPopup("<h2>alte vinewood garage</h2>");
   L.marker([-6986, 2946], {icon: cardIcon6}).addTo(map)
     .bindPopup("<h2>Flugzeughändler</h2>");
+  L.marker([-7506, 3937], {icon: cardIcon6}).addTo(map)
+    .bindPopup("<h2>Hafen Ölverarbeiter</h2>");
+  L.marker([-5774, 5410], {icon: cardIcon6}).addTo(map)
+    .bindPopup("<h2>Raketenbasis / IAA Gebäude</h2>");
 
 
  /*
