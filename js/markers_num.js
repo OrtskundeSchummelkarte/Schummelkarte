@@ -125,7 +125,38 @@
   L.marker([-6278, 4350], {icon: cardIcon6}).addTo(map)
     .bindPopup("<h2>Neuer Schwarzmarkt</h2>");
   L.marker([-6168, 3437], {icon: cardIcon6}).addTo(map)
-    .bindPopup("<h2>weazle news baustelle</h2>");
+    .bindPopup("<h2>weazle News baustelle</h2>");
+  L.marker([-5665, 3626], {icon: cardIcon6}).addTo(map)
+    .bindPopup("<h2>Rockford Plaza</h2>");
+  L.marker([-3261, 3369], {icon: cardIcon6}).addTo(map)
+    .bindPopup("<h2>Korean Plaza</h2>");
+  L.marker([-5815, 3198], {icon: cardIcon6}).addTo(map)
+    .bindPopup("<h2>Weazel Plaza</h2>");
+  L.marker([-5546, 3907], {icon: cardIcon6}).addTo(map)
+    .bindPopup("<h2>Vinewood Plaza</h2>");
+  L.marker([-1855, 3263], {icon: cardIcon6}).addTo(map)
+    .bindPopup("<h2>Seilbahn</h2>");
+  L.marker([-3691, 2724], {icon: cardIcon6}).addTo(map)
+    .bindPopup("<h2>Army Südtor</h2>");
+  L.marker([-1855, 3263], {icon: cardIcon6}).addTo(map)
+    .bindPopup("<h2>Army Nordtor</h2>");
+  L.marker([-1580, 5618], {icon: cardIcon6}).addTo(map)
+    .bindPopup("<h2>Mount Gordo</h2>");
+  L.marker([-2585, 6269], {icon: cardIcon6}).addTo(map)
+    .bindPopup("<h2>Altes Volky Fischerdorf</h2>");
+  L.marker([-6392, 3242], {icon: cardIcon6}).addTo(map)
+    .bindPopup("<h2>Fahrschule</h2>");
+  L.marker([-3751, 2366], {icon: cardIcon6}).addTo(map)
+    .bindPopup("<h2>Naturschutzgebiet</h2>");
+  L.marker([-3052, 4707], {icon: cardIcon6}).addTo(map)
+    .bindPopup("<h2>Jetski Verleih Sandy</h2>");
+  L.marker([-3090, 3809], {icon: cardIcon6}).addTo(map)
+    .bindPopup("<h2>Trailerpark/Lost Camp</h2>");
+  L.marker([-4002, 4439], {icon: cardIcon6}).addTo(map)
+    .bindPopup("<h2>Triaden Baustelle</h2>");
+  L.marker([-6561, 2959], {icon: cardIcon6}).addTo(map)
+    .bindPopup("<h2>Muscle Beach</h2>");
+
 
  /*L.marker([COORDS], {icon: cardIcon6}).addTo(map)
     .bindPopup("<h2>NAME</h2><p><a href='LINK ZUM BILD' data-lightbox='image-1' data-title='NAME'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
