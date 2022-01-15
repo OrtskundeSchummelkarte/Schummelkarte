@@ -194,6 +194,8 @@
     .bindPopup("<h2>Sandy PD</h2>");
   L.marker([-5470, 4151], {icon: cardIcon6}).addTo(map)
     .bindPopup("<h2>alte vinewood garage</h2>");
+  L.marker([-6986, 2946], {icon: cardIcon6}).addTo(map)
+    .bindPopup("<h2>Flugzeughändler</h2>");
 
 
  /*
