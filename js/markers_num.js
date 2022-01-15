@@ -1,3 +1,7 @@
+  L.marker([-3161, 4665], {icon: cardIcon6}).addTo(map)
+    .bindPopup("<h2>Ace Bar</h2>");
+
+ 
  /*L.marker([COORDS], {icon: cardIcon6}).addTo(map)
     .bindPopup("<h2>NAME</h2><p><a href='LINK ZUM BILD' data-lightbox='image-1' data-title='NAME'>Screenshot öffnen</a><div class='input-group input-group-sm mb-3'></div></div></p>");
 
