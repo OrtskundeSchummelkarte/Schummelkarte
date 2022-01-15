@@ -119,7 +119,7 @@
   L.marker([-5100, 1800], {icon: cardIcon6}).addTo(map)
     .bindPopup("<h2>Altes Bosoanwesen Westhighway</h2>");
   L.marker([-5969, 2808], {icon: cardIcon6}).addTo(map)
-    .bindPopup("<h2>Altes Bosoanwesen Pier</h2>");
+    .bindPopup("<h2>Altes Barrio Del Perro</h2>");
   L.marker([-6330, 3717], {icon: cardIcon6}).addTo(map)
     .bindPopup("<h2>Alter Schwarzmarkt</h2>");
   L.marker([-6278, 4350], {icon: cardIcon6}).addTo(map)
